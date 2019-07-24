@@ -51,8 +51,3 @@ buildNumber.properties
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-<<<<<<< HEAD
-hs_err_pid*
-=======
-hs_err_pid*
->>>>>>> 327283ab7f3cbc1f25cfdc2797bc18384dd637b6
